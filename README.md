@@ -9,4 +9,4 @@ The videos are produced by an automated pipeline (script, voice-over, graphics a
 every figure comes from a public data source linked in the video description, and each video is marked as AI-generated.
 
 This repository hosts the public pages for the `numlo` YouTube uploader app: this homepage and the
-[privacy policy](PRIVACY.md).
+[privacy policy](PRIVACY.md) and [terms of service](TERMS.md).
